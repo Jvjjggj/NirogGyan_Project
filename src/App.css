@@ -318,7 +318,7 @@ body {
 
 .app-container {
   width: 100%;
-  min-width: 1800px;    /* Optional: controls max stretch on large screens */
+  max-width: 1800px;    /* Optional: controls max stretch on large screens */
   margin: 0 auto;        /* Horizontally centers the content */
   padding: 20px;
   box-sizing: border-box;
