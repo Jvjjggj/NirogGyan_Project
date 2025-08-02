@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Miller",
+    "specialization": "Cardiologist",
+    "profileImage": "https://randomuser.me/api/portraits/women/1.jpg",
+    "availabilityStatus": "Available Today",
+    "schedule": [
+      "Monday", "Wednesday", "Friday"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. John Davis",
+    "specialization": "Dermatologist",
+    "profileImage": "https://randomuser.me/api/portraits/men/2.jpg",
+    "availabilityStatus": "Fully Booked",
+    "schedule": [
+      "Monday", "Tuesday", "Thursday"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Chen",
+    "specialization": "Pediatrician",
+    "profileImage": "https://randomuser.me/api/portraits/women/3.jpg",
+    "availabilityStatus": "On Leave",
+    "schedule": [
+      "Wednesday", "Friday"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Michael Brown",
+    "specialization": "Neurologist",
+    "profileImage": "https://randomuser.me/api/portraits/men/4.jpg",
+    "availabilityStatus": "Available Today",
+    "schedule": [
+      "Tuesday", "Thursday"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Maria Rodriguez",
+    "specialization": "Psychiatrist",
+    "profileImage": "https://randomuser.me/api/portraits/women/5.jpg",
+    "availabilityStatus": "Available Today",
+    "schedule": [
+      "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"
+    ]
+  }
+]
